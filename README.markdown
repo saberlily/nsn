@@ -107,8 +107,8 @@ thực hiện các bước bên dưới:
 2. ...
 
 
-Hiệu chỉnh IDE
---------------
+Hiệu chỉnh Visual Studio
+------------------------
 
 Yêu cầu hiệu chỉnh lại tính năng `Format Document` trong Visual Studio
 để code trình bày được đẹp và chuẩn :)
